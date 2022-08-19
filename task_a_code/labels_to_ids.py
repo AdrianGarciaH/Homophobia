@@ -13,3 +13,11 @@ labels_to_ids_tam = {
     'Mixed_feelings': 3,
     'unknown_state': 4
 }
+
+labels_to_ids_mal = {
+    'Negative' : 0, 
+    'Positive': 1,
+    'not-malayalam': 2,
+    'Mixed_feelings': 3,
+    'unknown_state': 4
+}
