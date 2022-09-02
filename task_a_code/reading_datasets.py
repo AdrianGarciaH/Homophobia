@@ -39,7 +39,7 @@ def read_test(location, split = 'test'):
 
 
 if __name__ == '__main__':
-    location = '../homophobia/datasets/task_a'
+    location = '../Homophobia/datasets/task_a'
     split = 'train'
     
     data = read_task5(location, split)

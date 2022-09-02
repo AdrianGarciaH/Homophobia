@@ -1,0 +1,769 @@
+id	cat_boost_original_bert	forest_original_bert	log_original_bert	neigh_original_bert	original_majority_label_bert
+Kan_1	Negative	Negative	Negative	Negative	Negative
+Kan_2	Positive	Positive	Positive	Positive	Positive
+Kan_3	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_4	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_5	Positive	Negative	Positive	Positive	Positive
+Kan_6	unknown state	not-Kannada	unknown state	not-Kannada	not-Kannada
+Kan_7	Positive	Positive	Positive	Positive	Positive
+Kan_8	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_9	Negative	Negative	Negative	Positive	Negative
+Kan_10	Positive	Positive	Positive	Positive	Positive
+Kan_11	Mixed feelings	Negative	Positive	Positive	Positive
+Kan_12	unknown state	Positive	Positive	Positive	Positive
+Kan_13	not-Kannada	Positive	Positive	Positive	Positive
+Kan_14	Negative	Negative	Negative	Negative	Negative
+Kan_15	Positive	Negative	Positive	Positive	Positive
+Kan_16	Positive	Positive	Positive	Positive	Positive
+Kan_17	Positive	Positive	Positive	Positive	Positive
+Kan_18	Positive	Positive	Positive	Positive	Positive
+Kan_19	Positive	Positive	Negative	Positive	Positive
+Kan_20	Positive	Positive	Positive	Positive	Positive
+Kan_21	Positive	Positive	Positive	Positive	Positive
+Kan_22	Positive	Positive	Positive	Mixed feelings	Positive
+Kan_23	Positive	Positive	Positive	Positive	Positive
+Kan_24	Positive	Positive	unknown state	Positive	Positive
+Kan_25	Positive	not-Kannada	Positive	not-Kannada	Positive
+Kan_26	Positive	Positive	Positive	not-Kannada	Positive
+Kan_27	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_28	Positive	Positive	Positive	Positive	Positive
+Kan_29	Mixed feelings	Mixed feelings	Positive	Mixed feelings	Mixed feelings
+Kan_30	not-Kannada	Positive	not-Kannada	Mixed feelings	not-Kannada
+Kan_31	Positive	Positive	Positive	Positive	Positive
+Kan_32	Positive	not-Kannada	Positive	not-Kannada	Positive
+Kan_33	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_34	not-Kannada	Positive	not-Kannada	Negative	not-Kannada
+Kan_35	Negative	Negative	Negative	Negative	Negative
+Kan_36	Positive	Positive	Positive	Positive	Positive
+Kan_37	Positive	Positive	Negative	Negative	Negative
+Kan_38	Positive	Positive	Positive	Positive	Positive
+Kan_39	not-Kannada	Positive	Positive	Positive	Positive
+Kan_40	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_41	Positive	not-Kannada	Positive	Positive	Positive
+Kan_42	Positive	Positive	Positive	Positive	Positive
+Kan_43	Positive	Positive	Positive	Positive	Positive
+Kan_44	Positive	Positive	Positive	Positive	Positive
+Kan_45	Positive	Positive	Positive	not-Kannada	Positive
+Kan_46	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_47	unknown state	unknown state	unknown state	Negative	unknown state
+Kan_48	Positive	Positive	Positive	Positive	Positive
+Kan_49	Positive	Positive	Positive	Positive	Positive
+Kan_50	Negative	Positive	Negative	Positive	Negative
+Kan_51	Negative	Negative	Negative	Negative	Negative
+Kan_52	unknown state	unknown state	not-Kannada	not-Kannada	not-Kannada
+Kan_53	Positive	Positive	Positive	Positive	Positive
+Kan_54	Positive	Positive	Positive	Positive	Positive
+Kan_55	Positive	Positive	Positive	Positive	Positive
+Kan_56	Negative	Negative	Positive	Negative	Negative
+Kan_57	Positive	Positive	Negative	Negative	Negative
+Kan_58	Positive	Negative	Negative	Positive	Negative
+Kan_59	Negative	Positive	Positive	Positive	Positive
+Kan_60	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_61	Positive	Positive	Negative	Negative	Negative
+Kan_62	Positive	Positive	Positive	Positive	Positive
+Kan_63	Negative	Positive	Negative	unknown state	Negative
+Kan_64	Positive	Positive	Positive	Positive	Positive
+Kan_65	Positive	Negative	Negative	Positive	Negative
+Kan_66	Positive	Positive	Positive	Negative	Positive
+Kan_67	Positive	Positive	not-Kannada	Positive	Positive
+Kan_68	Positive	Positive	Positive	Negative	Positive
+Kan_69	Positive	Positive	Positive	Positive	Positive
+Kan_70	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_71	Negative	Positive	Negative	Negative	Negative
+Kan_72	Negative	Positive	Negative	Positive	Negative
+Kan_73	Positive	Positive	Positive	Positive	Positive
+Kan_74	Positive	Positive	Positive	Positive	Positive
+Kan_75	Positive	Positive	Positive	Positive	Positive
+Kan_76	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_77	Positive	Positive	Positive	Positive	Positive
+Kan_78	Positive	Positive	Positive	Positive	Positive
+Kan_79	Mixed feelings	unknown state	Negative	unknown state	unknown state
+Kan_80	Negative	Positive	Negative	Negative	Negative
+Kan_81	Positive	Positive	Positive	Positive	Positive
+Kan_82	Positive	Positive	Positive	Positive	Positive
+Kan_83	unknown state	Negative	Negative	not-Kannada	Negative
+Kan_84	Positive	Positive	Positive	Positive	Positive
+Kan_85	Positive	Positive	Positive	Positive	Positive
+Kan_86	Negative	Negative	Negative	Negative	Negative
+Kan_87	Positive	Negative	Negative	Negative	Negative
+Kan_88	Positive	Positive	Positive	Positive	Positive
+Kan_89	Positive	Positive	Positive	not-Kannada	Positive
+Kan_90	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_91	Negative	Positive	Positive	Positive	Positive
+Kan_92	unknown state	Positive	Negative	Positive	Positive
+Kan_93	Positive	Positive	Positive	Positive	Positive
+Kan_94	Positive	Positive	Positive	Positive	Positive
+Kan_95	Negative	unknown state	Negative	Negative	Negative
+Kan_96	Positive	Positive	Positive	Negative	Positive
+Kan_97	Negative	Positive	Positive	Positive	Positive
+Kan_98	Positive	Positive	Positive	Positive	Positive
+Kan_99	Negative	Negative	Positive	Positive	Negative
+Kan_100	Mixed feelings	Mixed feelings	unknown state	Mixed feelings	Mixed feelings
+Kan_101	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_102	Negative	Positive	Negative	Negative	Negative
+Kan_103	Positive	Positive	Positive	Positive	Positive
+Kan_104	Positive	Positive	Positive	Positive	Positive
+Kan_105	Positive	Positive	not-Kannada	unknown state	Positive
+Kan_106	not-Kannada	Positive	unknown state	Positive	Positive
+Kan_107	Positive	Positive	not-Kannada	Positive	Positive
+Kan_108	Negative	Negative	Negative	Negative	Negative
+Kan_109	Negative	Negative	Negative	Negative	Negative
+Kan_110	unknown state	Mixed feelings	unknown state	Positive	unknown state
+Kan_111	Positive	Positive	Positive	Positive	Positive
+Kan_112	Positive	Positive	Positive	Positive	Positive
+Kan_113	Positive	Positive	Positive	Positive	Positive
+Kan_114	unknown state	Mixed feelings	Positive	Positive	Positive
+Kan_115	Positive	Positive	Positive	Positive	Positive
+Kan_116	Positive	Negative	Positive	Positive	Positive
+Kan_117	Positive	Positive	Positive	Positive	Positive
+Kan_118	Positive	Positive	not-Kannada	Positive	Positive
+Kan_119	Positive	Positive	Positive	Positive	Positive
+Kan_120	Positive	Negative	Positive	Positive	Positive
+Kan_121	unknown state	Positive	Positive	Positive	Positive
+Kan_122	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_123	Positive	not-Kannada	Positive	Positive	Positive
+Kan_124	Positive	Positive	Positive	Positive	Positive
+Kan_125	Positive	Negative	Positive	Positive	Positive
+Kan_126	Positive	Positive	Positive	Positive	Positive
+Kan_127	Positive	Positive	Positive	Positive	Positive
+Kan_128	Negative	Negative	Negative	Negative	Negative
+Kan_129	Positive	Positive	Positive	Positive	Positive
+Kan_130	Positive	Negative	Negative	Positive	Negative
+Kan_131	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_132	Positive	Positive	Positive	Positive	Positive
+Kan_133	Positive	Positive	Positive	Negative	Positive
+Kan_134	Negative	Positive	Positive	Negative	Negative
+Kan_135	Positive	Positive	Positive	Positive	Positive
+Kan_136	Positive	Positive	Positive	Positive	Positive
+Kan_137	Positive	Positive	Positive	Positive	Positive
+Kan_138	Positive	Positive	Positive	Positive	Positive
+Kan_139	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_140	Positive	Positive	Positive	Positive	Positive
+Kan_141	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_142	Negative	Negative	Negative	Negative	Negative
+Kan_143	Positive	Positive	Positive	Positive	Positive
+Kan_144	not-Kannada	Mixed feelings	not-Kannada	not-Kannada	not-Kannada
+Kan_145	Positive	Positive	Positive	Positive	Positive
+Kan_146	Positive	Positive	Positive	Positive	Positive
+Kan_147	Positive	Positive	Positive	Positive	Positive
+Kan_148	Positive	Positive	Positive	Positive	Positive
+Kan_149	unknown state	Positive	Positive	Mixed feelings	Positive
+Kan_150	Negative	Negative	Negative	Negative	Negative
+Kan_151	Positive	Positive	Positive	Positive	Positive
+Kan_152	Positive	Positive	Positive	Positive	Positive
+Kan_153	Positive	Positive	Positive	Positive	Positive
+Kan_154	Positive	Positive	Positive	Positive	Positive
+Kan_155	Positive	Positive	Positive	Positive	Positive
+Kan_156	Negative	Negative	Negative	Negative	Negative
+Kan_157	Positive	Positive	Positive	Positive	Positive
+Kan_158	Mixed feelings	unknown state	Mixed feelings	Mixed feelings	Mixed feelings
+Kan_159	not-Kannada	not-Kannada	unknown state	Positive	not-Kannada
+Kan_160	Positive	Positive	Positive	Positive	Positive
+Kan_161	Positive	Positive	Positive	Positive	Positive
+Kan_162	Positive	Positive	Positive	Positive	Positive
+Kan_163	Negative	Positive	Negative	Negative	Negative
+Kan_164	Positive	Positive	not-Kannada	not-Kannada	Positive
+Kan_165	not-Kannada	Positive	unknown state	not-Kannada	not-Kannada
+Kan_166	Negative	Positive	Positive	Negative	Negative
+Kan_167	unknown state	Negative	unknown state	unknown state	unknown state
+Kan_168	Positive	Positive	Positive	Positive	Positive
+Kan_169	Positive	Positive	Positive	Positive	Positive
+Kan_170	Negative	Negative	Negative	Positive	Negative
+Kan_171	Positive	Negative	Positive	Positive	Positive
+Kan_172	Negative	Negative	Negative	Negative	Negative
+Kan_173	Positive	Positive	Negative	Positive	Positive
+Kan_174	Positive	Positive	Positive	Positive	Positive
+Kan_175	Positive	Positive	Positive	Positive	Positive
+Kan_176	Positive	Positive	Positive	Positive	Positive
+Kan_177	Positive	Positive	not-Kannada	not-Kannada	Positive
+Kan_178	Negative	unknown state	Negative	Negative	Negative
+Kan_179	unknown state	Positive	unknown state	not-Kannada	unknown state
+Kan_180	Positive	Positive	Positive	Mixed feelings	Positive
+Kan_181	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_182	Positive	Positive	Positive	Positive	Positive
+Kan_183	Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_184	Mixed feelings	Negative	unknown state	unknown state	unknown state
+Kan_185	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_186	Positive	Positive	Positive	Positive	Positive
+Kan_187	Positive	Positive	Positive	Negative	Positive
+Kan_188	Positive	Positive	Positive	Positive	Positive
+Kan_189	Positive	Positive	Positive	Positive	Positive
+Kan_190	Negative	Positive	Negative	Positive	Negative
+Kan_191	Positive	Positive	Positive	Positive	Positive
+Kan_192	Positive	Positive	Negative	Negative	Negative
+Kan_193	Positive	Positive	Positive	Positive	Positive
+Kan_194	not-Kannada	unknown state	Mixed feelings	Mixed feelings	Mixed feelings
+Kan_195	unknown state	unknown state	Positive	unknown state	unknown state
+Kan_196	Positive	Positive	Positive	Negative	Positive
+Kan_197	Positive	Positive	Positive	Positive	Positive
+Kan_198	Mixed feelings	Mixed feelings	Positive	Mixed feelings	Mixed feelings
+Kan_199	Negative	Negative	Positive	Positive	Negative
+Kan_200	Mixed feelings	Positive	Negative	Mixed feelings	Mixed feelings
+Kan_201	Positive	Positive	Positive	not-Kannada	Positive
+Kan_202	Positive	Positive	Positive	Negative	Positive
+Kan_203	Positive	Positive	not-Kannada	Positive	Positive
+Kan_204	not-Kannada	unknown state	not-Kannada	Positive	not-Kannada
+Kan_205	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_206	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_207	Positive	Positive	not-Kannada	Positive	Positive
+Kan_208	Mixed feelings	Positive	Positive	Positive	Positive
+Kan_209	Positive	Negative	Positive	Positive	Positive
+Kan_210	Positive	Positive	Positive	Positive	Positive
+Kan_211	Positive	Positive	Positive	Positive	Positive
+Kan_212	Negative	Negative	Negative	Negative	Negative
+Kan_213	Positive	Positive	Positive	Positive	Positive
+Kan_214	Positive	Negative	Positive	Negative	Negative
+Kan_215	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_216	Positive	Positive	Positive	Positive	Positive
+Kan_217	Positive	Negative	Negative	Negative	Negative
+Kan_218	Positive	Positive	Positive	Positive	Positive
+Kan_219	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_220	unknown state	Positive	Positive	Positive	Positive
+Kan_221	Positive	Positive	Positive	Positive	Positive
+Kan_222	Positive	Negative	Positive	Positive	Positive
+Kan_223	Positive	Positive	Positive	Positive	Positive
+Kan_224	Positive	Positive	Positive	Positive	Positive
+Kan_225	Positive	Positive	Positive	Positive	Positive
+Kan_226	Negative	Negative	Negative	Negative	Negative
+Kan_227	Negative	Negative	Negative	Negative	Negative
+Kan_228	Negative	Negative	Negative	Negative	Negative
+Kan_229	Positive	Positive	Positive	Positive	Positive
+Kan_230	Positive	Negative	Negative	Negative	Negative
+Kan_231	Positive	Positive	Positive	Positive	Positive
+Kan_232	unknown state	Positive	Positive	Positive	Positive
+Kan_233	Negative	Negative	Negative	Negative	Negative
+Kan_234	Positive	Positive	Positive	Positive	Positive
+Kan_235	Positive	Positive	Negative	Positive	Positive
+Kan_236	Positive	Positive	Negative	Mixed feelings	Positive
+Kan_237	unknown state	Positive	Negative	Negative	Negative
+Kan_238	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_239	Positive	Positive	Positive	Negative	Positive
+Kan_240	Positive	Positive	Positive	Positive	Positive
+Kan_241	Positive	Negative	Positive	Positive	Positive
+Kan_242	Positive	Positive	Positive	Positive	Positive
+Kan_243	Negative	Positive	Negative	Positive	Negative
+Kan_244	Positive	Positive	Positive	Positive	Positive
+Kan_245	Positive	Positive	Positive	Positive	Positive
+Kan_246	Positive	Positive	Positive	Positive	Positive
+Kan_247	Positive	Positive	Positive	not-Kannada	Positive
+Kan_248	Positive	Positive	Positive	Positive	Positive
+Kan_249	Negative	Negative	Negative	Negative	Negative
+Kan_250	Negative	Positive	Positive	Positive	Positive
+Kan_251	Negative	Negative	Negative	Positive	Negative
+Kan_252	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_253	Positive	Positive	Positive	Positive	Positive
+Kan_254	Mixed feelings	Positive	Positive	Positive	Positive
+Kan_255	Positive	Negative	Positive	Negative	Negative
+Kan_256	Positive	Positive	Positive	Positive	Positive
+Kan_257	Positive	Positive	Positive	Negative	Positive
+Kan_258	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_259	Positive	Positive	Negative	Positive	Positive
+Kan_260	Positive	Positive	Positive	Positive	Positive
+Kan_261	not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada
+Kan_262	Positive	Positive	Positive	not-Kannada	Positive
+Kan_263	Mixed feelings	not-Kannada	Positive	unknown state	Positive
+Kan_264	unknown state	unknown state	not-Kannada	unknown state	unknown state
+Kan_265	Positive	Negative	Negative	Positive	Negative
+Kan_266	Positive	Positive	Positive	Positive	Positive
+Kan_267	Positive	Negative	Negative	Negative	Negative
+Kan_268	Positive	Positive	Positive	Positive	Positive
+Kan_269	unknown state	not-Kannada	unknown state	not-Kannada	not-Kannada
+Kan_270	Positive	Negative	Negative	Negative	Negative
+Kan_271	Positive	Negative	Positive	Positive	Positive
+Kan_272	Negative	Positive	Positive	Positive	Positive
+Kan_273	Positive	Positive	Positive	Positive	Positive
+Kan_274	Positive	Positive	Positive	Positive	Positive
+Kan_275	Positive	Positive	Positive	Positive	Positive
+Kan_276	unknown state	Negative	Positive	Negative	Negative
+Kan_277	Mixed feelings	Positive	Negative	Negative	Negative
+Kan_278	Mixed feelings	Negative	Negative	Positive	Negative
+Kan_279	Positive	Positive	Positive	Positive	Positive
+Kan_280	Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_281	Positive	not-Kannada	Positive	Positive	Positive
+Kan_282	Positive	Positive	Positive	Positive	Positive
+Kan_283	Positive	Positive	Positive	Positive	Positive
+Kan_284	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_285	Positive	Positive	Positive	Positive	Positive
+Kan_286	Negative	Positive	Negative	Positive	Negative
+Kan_287	Negative	Negative	Negative	Positive	Negative
+Kan_288	Positive	Positive	Positive	Positive	Positive
+Kan_289	Positive	Positive	Positive	Positive	Positive
+Kan_290	Positive	Positive	Positive	unknown state	Positive
+Kan_291	not-Kannada	Positive	not-Kannada	Positive	Positive
+Kan_292	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_293	Negative	Negative	Negative	Negative	Negative
+Kan_294	not-Kannada	Positive	Positive	not-Kannada	Positive
+Kan_295	Negative	Positive	Negative	Negative	Negative
+Kan_296	Positive	not-Kannada	Positive	not-Kannada	Positive
+Kan_297	Positive	Positive	Positive	Positive	Positive
+Kan_298	unknown state	Positive	Positive	Positive	Positive
+Kan_299	Mixed feelings	Positive	Negative	Mixed feelings	Mixed feelings
+Kan_300	Negative	Negative	Positive	Positive	Negative
+Kan_301	Positive	Positive	Positive	Positive	Positive
+Kan_302	Negative	Negative	Positive	Positive	Negative
+Kan_303	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_304	Negative	Negative	Negative	Negative	Negative
+Kan_305	Positive	Positive	unknown state	Positive	Positive
+Kan_306	unknown state	Negative	unknown state	unknown state	unknown state
+Kan_307	Positive	Positive	Positive	Positive	Positive
+Kan_308	Negative	Negative	Negative	Negative	Negative
+Kan_309	Negative	Negative	Negative	Negative	Negative
+Kan_310	Positive	Negative	Negative	Positive	Negative
+Kan_311	Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_312	unknown state	Positive	Positive	not-Kannada	Positive
+Kan_313	Positive	Positive	Positive	Positive	Positive
+Kan_314	Positive	Positive	Positive	Positive	Positive
+Kan_315	Positive	not-Kannada	Positive	Positive	Positive
+Kan_316	Positive	Positive	Positive	Positive	Positive
+Kan_317	Positive	Positive	Positive	Negative	Positive
+Kan_318	Positive	Positive	Positive	Positive	Positive
+Kan_319	unknown state	Positive	not-Kannada	Positive	Positive
+Kan_320	Negative	Negative	Negative	Negative	Negative
+Kan_321	Positive	Positive	Positive	Positive	Positive
+Kan_322	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_323	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_324	Positive	Positive	Positive	Positive	Positive
+Kan_325	Positive	Positive	Positive	Positive	Positive
+Kan_326	Negative	Positive	Negative	Positive	Negative
+Kan_327	Positive	Positive	Positive	Positive	Positive
+Kan_328	Positive	Positive	Positive	Positive	Positive
+Kan_329	unknown state	unknown state	not-Kannada	Positive	unknown state
+Kan_330	Negative	Positive	Positive	Positive	Positive
+Kan_331	Positive	not-Kannada	not-Kannada	Positive	Positive
+Kan_332	Positive	Positive	Positive	Positive	Positive
+Kan_333	Positive	Positive	Positive	Positive	Positive
+Kan_334	not-Kannada	Positive	Positive	Positive	Positive
+Kan_335	Negative	unknown state	Negative	Mixed feelings	Negative
+Kan_336	not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada
+Kan_337	Positive	Positive	Positive	Positive	Positive
+Kan_338	Positive	Positive	Positive	Positive	Positive
+Kan_339	Positive	Positive	Positive	Positive	Positive
+Kan_340	Positive	Positive	Positive	Positive	Positive
+Kan_341	Negative	Negative	Negative	Negative	Negative
+Kan_342	Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_343	not-Kannada	Positive	Positive	not-Kannada	Positive
+Kan_344	unknown state	Positive	Positive	Positive	Positive
+Kan_345	Negative	Negative	Negative	Negative	Negative
+Kan_346	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_347	Positive	Positive	Positive	Positive	Positive
+Kan_348	Positive	Positive	Positive	Negative	Positive
+Kan_349	Negative	Positive	Negative	Positive	Negative
+Kan_350	Positive	Negative	Positive	Positive	Positive
+Kan_351	Positive	Mixed feelings	Positive	Positive	Positive
+Kan_352	Negative	Mixed feelings	Negative	Positive	Negative
+Kan_353	Positive	Positive	Positive	Positive	Positive
+Kan_354	Positive	Positive	Positive	Mixed feelings	Positive
+Kan_355	Positive	Positive	Positive	Positive	Positive
+Kan_356	Positive	Positive	Negative	Positive	Positive
+Kan_357	Negative	Negative	Negative	Positive	Negative
+Kan_358	unknown state	Positive	Positive	Positive	Positive
+Kan_359	Positive	Positive	Positive	Positive	Positive
+Kan_360	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_361	Positive	Positive	Positive	not-Kannada	Positive
+Kan_362	Positive	Positive	Negative	Positive	Positive
+Kan_363	Positive	Positive	Positive	Positive	Positive
+Kan_364	Negative	Negative	Negative	Negative	Negative
+Kan_365	not-Kannada	Positive	Positive	Positive	Positive
+Kan_366	Positive	Positive	Positive	Positive	Positive
+Kan_367	Mixed feelings	Positive	Positive	Mixed feelings	Positive
+Kan_368	Positive	Positive	unknown state	Mixed feelings	Positive
+Kan_369	Positive	Positive	Positive	Positive	Positive
+Kan_370	Negative	Negative	Negative	Negative	Negative
+Kan_371	Positive	Positive	Positive	Positive	Positive
+Kan_372	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_373	Positive	Positive	Negative	Positive	Positive
+Kan_374	Negative	Negative	Negative	Negative	Negative
+Kan_375	Positive	Positive	Positive	Positive	Positive
+Kan_376	not-Kannada	Positive	Positive	Positive	Positive
+Kan_377	Positive	Positive	Positive	Positive	Positive
+Kan_378	Positive	Negative	Positive	Negative	Negative
+Kan_379	Positive	unknown state	Negative	unknown state	unknown state
+Kan_380	Positive	Positive	Positive	Positive	Positive
+Kan_381	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_382	Positive	Negative	Positive	Mixed feelings	Positive
+Kan_383	Negative	Positive	Negative	Positive	Negative
+Kan_384	Negative	Negative	Negative	Negative	Negative
+Kan_385	Positive	Positive	Positive	Negative	Positive
+Kan_386	Negative	Positive	Positive	Positive	Positive
+Kan_387	Positive	Positive	Positive	Positive	Positive
+Kan_388	Positive	Positive	Positive	Positive	Positive
+Kan_389	Positive	Positive	Positive	not-Kannada	Positive
+Kan_390	Positive	Positive	Positive	Positive	Positive
+Kan_391	Positive	not-Kannada	unknown state	Positive	Positive
+Kan_392	Positive	Positive	Positive	Positive	Positive
+Kan_393	Positive	not-Kannada	Positive	not-Kannada	Positive
+Kan_394	Positive	Positive	Positive	not-Kannada	Positive
+Kan_395	Positive	Negative	Negative	Negative	Negative
+Kan_396	unknown state	Positive	Positive	unknown state	Positive
+Kan_397	not-Kannada	unknown state	Positive	Positive	Positive
+Kan_398	Positive	Positive	Positive	Positive	Positive
+Kan_399	Negative	Positive	Negative	unknown state	Negative
+Kan_400	Positive	Positive	Positive	Positive	Positive
+Kan_401	Positive	Positive	Positive	Positive	Positive
+Kan_402	Positive	Mixed feelings	Positive	Positive	Positive
+Kan_403	Positive	Positive	Positive	Positive	Positive
+Kan_404	Positive	Positive	Positive	Positive	Positive
+Kan_405	Positive	Positive	Positive	Positive	Positive
+Kan_406	Positive	Positive	Positive	Positive	Positive
+Kan_407	Positive	Positive	Positive	Positive	Positive
+Kan_408	Positive	Positive	Positive	Positive	Positive
+Kan_409	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_410	Positive	Positive	Positive	Positive	Positive
+Kan_411	Positive	Positive	Positive	Positive	Positive
+Kan_412	Positive	Positive	Positive	Positive	Positive
+Kan_413	Negative	not-Kannada	unknown state	unknown state	unknown state
+Kan_414	Positive	Positive	Positive	not-Kannada	Positive
+Kan_415	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_416	Negative	Negative	Negative	Negative	Negative
+Kan_417	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_418	not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada
+Kan_419	Positive	Positive	Positive	Positive	Positive
+Kan_420	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_421	Positive	Negative	Positive	Positive	Positive
+Kan_422	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_423	Positive	Positive	Positive	Positive	Positive
+Kan_424	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_425	Mixed feelings	Negative	Negative	Negative	Negative
+Kan_426	Positive	Positive	Positive	Positive	Positive
+Kan_427	Negative	Mixed feelings	Positive	Positive	Positive
+Kan_428	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_429	Positive	Positive	Positive	Positive	Positive
+Kan_430	Positive	Negative	Negative	Negative	Negative
+Kan_431	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_432	Positive	Negative	Positive	Negative	Negative
+Kan_433	Positive	Positive	Positive	Positive	Positive
+Kan_434	Positive	Positive	Positive	Positive	Positive
+Kan_435	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_436	Positive	Positive	Positive	Positive	Positive
+Kan_437	Negative	Negative	Negative	Negative	Negative
+Kan_438	unknown state	unknown state	unknown state	unknown state	unknown state
+Kan_439	Positive	Negative	Positive	Negative	Negative
+Kan_440	not-Kannada	Negative	unknown state	unknown state	unknown state
+Kan_441	Positive	Positive	Positive	Positive	Positive
+Kan_442	Positive	Positive	Negative	Positive	Positive
+Kan_443	Positive	Positive	Positive	Positive	Positive
+Kan_444	Positive	Positive	Positive	Negative	Positive
+Kan_445	Positive	Positive	Positive	Positive	Positive
+Kan_446	Positive	Positive	Positive	Positive	Positive
+Kan_447	Positive	Positive	Positive	Positive	Positive
+Kan_448	Positive	Positive	Positive	Positive	Positive
+Kan_449	Positive	Positive	Positive	Positive	Positive
+Kan_450	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_451	Positive	Positive	Positive	Positive	Positive
+Kan_452	Positive	Positive	Positive	Positive	Positive
+Kan_453	unknown state	Positive	Positive	not-Kannada	Positive
+Kan_454	Positive	Positive	Positive	Positive	Positive
+Kan_455	Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_456	Positive	Positive	Positive	Positive	Positive
+Kan_457	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_458	Positive	Positive	not-Kannada	not-Kannada	Positive
+Kan_459	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_460	Positive	Negative	Positive	Positive	Positive
+Kan_461	Positive	not-Kannada	not-Kannada	Positive	Positive
+Kan_462	Negative	Positive	Negative	Negative	Negative
+Kan_463	Positive	Positive	Positive	Positive	Positive
+Kan_464	Positive	Negative	Positive	Positive	Positive
+Kan_465	Positive	Positive	Positive	Negative	Positive
+Kan_466	Negative	Negative	Negative	Positive	Negative
+Kan_467	not-Kannada	unknown state	unknown state	unknown state	unknown state
+Kan_468	Positive	Positive	Positive	not-Kannada	Positive
+Kan_469	Positive	Positive	Positive	Positive	Positive
+Kan_470	Positive	Positive	Negative	Positive	Positive
+Kan_471	Positive	Positive	Positive	Positive	Positive
+Kan_472	Negative	Positive	Negative	Negative	Negative
+Kan_473	Positive	Positive	Positive	Positive	Positive
+Kan_474	Positive	Positive	not-Kannada	Positive	Positive
+Kan_475	Positive	Positive	Positive	Positive	Positive
+Kan_476	Negative	Negative	Negative	unknown state	Negative
+Kan_477	Positive	Positive	Positive	Positive	Positive
+Kan_478	Positive	Positive	Positive	Positive	Positive
+Kan_479	Negative	Positive	Positive	Positive	Positive
+Kan_480	Positive	Negative	Positive	Positive	Positive
+Kan_481	Negative	Negative	unknown state	Positive	Negative
+Kan_482	Positive	Positive	Positive	Positive	Positive
+Kan_483	Positive	Positive	Positive	Positive	Positive
+Kan_484	Positive	Negative	Positive	Negative	Negative
+Kan_485	Positive	Positive	Positive	Positive	Positive
+Kan_486	Negative	Negative	Negative	Negative	Negative
+Kan_487	Positive	Positive	Positive	Positive	Positive
+Kan_488	Positive	Negative	not-Kannada	Positive	Positive
+Kan_489	Positive	Negative	Negative	Positive	Negative
+Kan_490	Negative	Negative	Negative	Negative	Negative
+Kan_491	Positive	Negative	Positive	Positive	Positive
+Kan_492	Negative	Positive	Positive	Positive	Positive
+Kan_493	Negative	Negative	Negative	Negative	Negative
+Kan_494	Negative	Negative	Negative	Mixed feelings	Negative
+Kan_495	Positive	Positive	Positive	Positive	Positive
+Kan_496	not-Kannada	Positive	Mixed feelings	Mixed feelings	Mixed feelings
+Kan_497	Positive	Positive	Positive	Positive	Positive
+Kan_498	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_499	unknown state	Negative	unknown state	unknown state	unknown state
+Kan_500	Negative	Negative	Negative	Positive	Negative
+Kan_501	Positive	Positive	Positive	Positive	Positive
+Kan_502	Positive	Positive	Positive	not-Kannada	Positive
+Kan_503	not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada
+Kan_504	Positive	Positive	Positive	Positive	Positive
+Kan_505	Positive	Positive	Positive	Positive	Positive
+Kan_506	Positive	Positive	Positive	Positive	Positive
+Kan_507	Negative	Positive	Positive	Mixed feelings	Positive
+Kan_508	Positive	Positive	Positive	Positive	Positive
+Kan_509	Positive	Positive	Positive	Positive	Positive
+Kan_510	Positive	Negative	Positive	Positive	Positive
+Kan_511	Positive	Positive	Positive	Positive	Positive
+Kan_512	Negative	Positive	Positive	Positive	Positive
+Kan_513	Positive	not-Kannada	Positive	Mixed feelings	Positive
+Kan_514	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_515	Positive	Positive	Positive	Positive	Positive
+Kan_516	unknown state	not-Kannada	unknown state	Positive	unknown state
+Kan_517	Positive	Positive	Positive	Positive	Positive
+Kan_518	Positive	Positive	Negative	Positive	Positive
+Kan_519	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_520	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_521	unknown state	Positive	Positive	Positive	Positive
+Kan_522	Positive	Positive	unknown state	Positive	Positive
+Kan_523	Negative	Positive	Positive	Positive	Positive
+Kan_524	Positive	Positive	Positive	Positive	Positive
+Kan_525	Positive	Positive	Positive	Positive	Positive
+Kan_526	Positive	Positive	Positive	Positive	Positive
+Kan_527	Negative	Positive	Negative	Positive	Negative
+Kan_528	Positive	Negative	Negative	Negative	Negative
+Kan_529	Positive	Positive	Positive	Mixed feelings	Positive
+Kan_530	Positive	Positive	Negative	Positive	Positive
+Kan_531	Positive	Positive	Positive	Positive	Positive
+Kan_532	Positive	Positive	Positive	Positive	Positive
+Kan_533	Positive	Negative	Positive	Positive	Positive
+Kan_534	unknown state	Positive	not-Kannada	Mixed feelings	Positive
+Kan_535	Negative	Positive	Negative	Negative	Negative
+Kan_536	Positive	Positive	Positive	Positive	Positive
+Kan_537	Positive	Positive	Positive	Positive	Positive
+Kan_538	Negative	Negative	Negative	Negative	Negative
+Kan_539	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Kan_540	Positive	Positive	Positive	Positive	Positive
+Kan_541	Negative	Negative	Negative	Negative	Negative
+Kan_542	not-Kannada	Positive	Positive	not-Kannada	Positive
+Kan_543	Positive	not-Kannada	unknown state	Positive	Positive
+Kan_544	Positive	Positive	Positive	Positive	Positive
+Kan_545	Positive	Positive	Positive	Positive	Positive
+Kan_546	Positive	Negative	Positive	Positive	Positive
+Kan_547	not-Kannada	unknown state	unknown state	unknown state	unknown state
+Kan_548	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_549	Positive	Positive	Positive	Positive	Positive
+Kan_550	Positive	Positive	Positive	not-Kannada	Positive
+Kan_551	Positive	Positive	Positive	Positive	Positive
+Kan_552	Negative	Positive	Positive	Negative	Negative
+Kan_553	Positive	Positive	Positive	Positive	Positive
+Kan_554	Negative	Positive	Positive	Positive	Positive
+Kan_555	Negative	Negative	Negative	Negative	Negative
+Kan_556	Positive	Positive	Positive	Negative	Positive
+Kan_557	unknown state	unknown state	unknown state	unknown state	unknown state
+Kan_558	Negative	Negative	Negative	Positive	Negative
+Kan_559	Positive	Positive	Positive	Positive	Positive
+Kan_560	not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada
+Kan_561	Positive	Positive	Positive	Positive	Positive
+Kan_562	Positive	Mixed feelings	unknown state	unknown state	unknown state
+Kan_563	Negative	Positive	Negative	Negative	Negative
+Kan_564	Negative	Negative	Negative	unknown state	Negative
+Kan_565	Positive	Positive	Positive	Negative	Positive
+Kan_566	not-Kannada	Positive	not-Kannada	Positive	Positive
+Kan_567	Positive	Positive	Positive	Positive	Positive
+Kan_568	Negative	Negative	Negative	Negative	Negative
+Kan_569	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_570	Negative	Positive	Positive	Positive	Positive
+Kan_571	Positive	Positive	Positive	Mixed feelings	Positive
+Kan_572	Negative	Negative	Negative	Positive	Negative
+Kan_573	Negative	Negative	Negative	Negative	Negative
+Kan_574	Positive	Positive	Positive	Positive	Positive
+Kan_575	unknown state	Positive	unknown state	Negative	unknown state
+Kan_576	Negative	Negative	Negative	Negative	Negative
+Kan_577	Positive	Positive	unknown state	Positive	Positive
+Kan_578	Negative	Positive	Negative	Negative	Negative
+Kan_579	Negative	Negative	Negative	Positive	Negative
+Kan_580	Positive	Negative	Positive	Positive	Positive
+Kan_581	Positive	Positive	Positive	Positive	Positive
+Kan_582	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_583	Negative	Positive	Negative	Negative	Negative
+Kan_584	Negative	Positive	Positive	Positive	Positive
+Kan_585	Positive	Positive	not-Kannada	Positive	Positive
+Kan_586	Positive	Positive	Positive	Positive	Positive
+Kan_587	Positive	Positive	Positive	Positive	Positive
+Kan_588	Negative	Positive	Positive	Positive	Positive
+Kan_589	Positive	Positive	Positive	Mixed feelings	Positive
+Kan_590	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_591	Positive	Positive	Negative	Positive	Positive
+Kan_592	Negative	Negative	Negative	Positive	Negative
+Kan_593	Positive	Positive	Positive	Positive	Positive
+Kan_594	Positive	Positive	Positive	Positive	Positive
+Kan_595	Positive	Positive	Positive	Positive	Positive
+Kan_596	not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada
+Kan_597	Positive	Positive	Positive	Positive	Positive
+Kan_598	Positive	Positive	Positive	Positive	Positive
+Kan_599	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Kan_600	Positive	Negative	Negative	Negative	Negative
+Kan_601	Negative	Negative	Negative	Negative	Negative
+Kan_602	not-Kannada	not-Kannada	Positive	unknown state	not-Kannada
+Kan_603	Positive	Positive	not-Kannada	Positive	Positive
+Kan_604	Positive	Positive	not-Kannada	not-Kannada	Positive
+Kan_605	Positive	Positive	Positive	Positive	Positive
+Kan_606	Positive	Positive	Positive	Positive	Positive
+Kan_607	Positive	Negative	Positive	Negative	Negative
+Kan_608	Positive	Negative	Positive	Positive	Positive
+Kan_609	Negative	Positive	Positive	Positive	Positive
+Kan_610	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_611	Positive	Positive	Positive	Positive	Positive
+Kan_612	Positive	Positive	Positive	Positive	Positive
+Kan_613	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_614	unknown state	Positive	not-Kannada	Positive	Positive
+Kan_615	Positive	Positive	Positive	Positive	Positive
+Kan_616	Positive	Positive	Positive	Positive	Positive
+Kan_617	Positive	Positive	Positive	Positive	Positive
+Kan_618	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_619	not-Kannada	unknown state	unknown state	unknown state	unknown state
+Kan_620	Positive	Negative	Positive	Positive	Positive
+Kan_621	Positive	Positive	Positive	not-Kannada	Positive
+Kan_622	Positive	Negative	Positive	Positive	Positive
+Kan_623	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_624	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_625	Positive	Negative	Positive	Positive	Positive
+Kan_626	Negative	Negative	Positive	Negative	Negative
+Kan_627	Positive	Positive	Positive	Positive	Positive
+Kan_628	Positive	Positive	Positive	Positive	Positive
+Kan_629	unknown state	unknown state	unknown state	unknown state	unknown state
+Kan_630	Negative	Positive	unknown state	unknown state	unknown state
+Kan_631	Mixed feelings	Negative	Negative	Negative	Negative
+Kan_632	Negative	Negative	Negative	Negative	Negative
+Kan_633	not-Kannada	unknown state	unknown state	Positive	unknown state
+Kan_634	Positive	Positive	Positive	Positive	Positive
+Kan_635	not-Kannada	not-Kannada	unknown state	Positive	not-Kannada
+Kan_636	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_637	Positive	Positive	Positive	Positive	Positive
+Kan_638	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Kan_639	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_640	Negative	Negative	Negative	Negative	Negative
+Kan_641	Positive	Positive	Negative	Negative	Negative
+Kan_642	Positive	Positive	Positive	Positive	Positive
+Kan_643	Negative	Positive	Negative	not-Kannada	Negative
+Kan_644	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Kan_645	Positive	not-Kannada	Positive	Positive	Positive
+Kan_646	unknown state	not-Kannada	Positive	unknown state	unknown state
+Kan_647	Positive	Positive	Positive	Positive	Positive
+Kan_648	Positive	Positive	Positive	Positive	Positive
+Kan_649	Positive	Positive	Positive	Positive	Positive
+Kan_650	Positive	Positive	Positive	Positive	Positive
+Kan_651	Positive	Positive	Negative	Positive	Positive
+Kan_652	not-Kannada	Negative	Positive	not-Kannada	not-Kannada
+Kan_653	not-Kannada	Negative	not-Kannada	unknown state	not-Kannada
+Kan_654	Positive	Positive	Positive	Positive	Positive
+Kan_655	Positive	Positive	Positive	Positive	Positive
+Kan_656	Positive	Positive	Positive	Positive	Positive
+Kan_657	Positive	Positive	Positive	Positive	Positive
+Kan_658	Positive	Negative	Negative	Positive	Negative
+Kan_659	Negative	Negative	Negative	Positive	Negative
+Kan_660	Negative	Negative	Negative	Negative	Negative
+Kan_661	Positive	Positive	Positive	Positive	Positive
+Kan_662	not-Kannada	Mixed feelings	not-Kannada	not-Kannada	not-Kannada
+Kan_663	Positive	Negative	unknown state	Negative	Negative
+Kan_664	Positive	Negative	Negative	Positive	Negative
+Kan_665	Positive	Positive	Positive	Positive	Positive
+Kan_666	Positive	Positive	Positive	not-Kannada	Positive
+Kan_667	unknown state	not-Kannada	unknown state	Positive	unknown state
+Kan_668	Positive	Positive	Positive	not-Kannada	Positive
+Kan_669	Negative	Positive	Positive	Positive	Positive
+Kan_670	Positive	Positive	Positive	Positive	Positive
+Kan_671	Positive	Positive	Positive	Positive	Positive
+Kan_672	Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_673	Positive	not-Kannada	unknown state	not-Kannada	not-Kannada
+Kan_674	Positive	Positive	Positive	Positive	Positive
+Kan_675	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_676	Negative	Positive	not-Kannada	unknown state	Negative
+Kan_677	Positive	Positive	Positive	Positive	Positive
+Kan_678	Positive	Positive	Positive	Positive	Positive
+Kan_679	Positive	Positive	Positive	Positive	Positive
+Kan_680	Positive	Positive	Positive	Positive	Positive
+Kan_681	Negative	Negative	Negative	Negative	Negative
+Kan_682	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_683	Positive	Positive	Positive	Positive	Positive
+Kan_684	unknown state	not-Kannada	not-Kannada	Positive	not-Kannada
+Kan_685	Positive	Positive	unknown state	Positive	Positive
+Kan_686	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_687	Negative	Positive	Positive	Positive	Positive
+Kan_688	Negative	Positive	Positive	Positive	Positive
+Kan_689	not-Kannada	Positive	Positive	not-Kannada	Positive
+Kan_690	Negative	Negative	Negative	Negative	Negative
+Kan_691	Negative	Negative	Positive	Negative	Negative
+Kan_692	Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_693	not-Kannada	Positive	Positive	Positive	Positive
+Kan_694	Negative	Positive	Mixed feelings	Mixed feelings	Mixed feelings
+Kan_695	unknown state	unknown state	unknown state	unknown state	unknown state
+Kan_696	Positive	Positive	Positive	Positive	Positive
+Kan_697	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_698	unknown state	Negative	unknown state	unknown state	unknown state
+Kan_699	Positive	Positive	Positive	Positive	Positive
+Kan_700	Positive	Negative	Positive	Positive	Positive
+Kan_701	Positive	Positive	Positive	Positive	Positive
+Kan_702	Positive	Positive	Positive	Positive	Positive
+Kan_703	Positive	Positive	Positive	Positive	Positive
+Kan_704	Positive	unknown state	Positive	not-Kannada	Positive
+Kan_705	Positive	Positive	Positive	Positive	Positive
+Kan_706	Positive	Negative	Negative	Positive	Negative
+Kan_707	Positive	Positive	Positive	Positive	Positive
+Kan_708	Positive	unknown state	Positive	Negative	Positive
+Kan_709	Positive	Negative	Negative	Positive	Negative
+Kan_710	Positive	Positive	Positive	Positive	Positive
+Kan_711	Positive	Negative	Negative	Negative	Negative
+Kan_712	Negative	Positive	Positive	Positive	Positive
+Kan_713	Mixed feelings	Negative	Negative	Positive	Negative
+Kan_714	Negative	Positive	Positive	Positive	Positive
+Kan_715	Negative	Positive	Negative	Positive	Negative
+Kan_716	Positive	Positive	Positive	Positive	Positive
+Kan_717	Negative	Negative	Negative	Positive	Negative
+Kan_718	Positive	Positive	Positive	Positive	Positive
+Kan_719	not-Kannada	Positive	not-Kannada	Positive	Positive
+Kan_720	Positive	Positive	Positive	Positive	Positive
+Kan_721	Positive	Positive	Positive	Positive	Positive
+Kan_722	Positive	Negative	Positive	Mixed feelings	Positive
+Kan_723	unknown state	unknown state	Positive	Positive	Positive
+Kan_724	Negative	Positive	Positive	Negative	Negative
+Kan_725	Negative	Positive	Positive	Positive	Positive
+Kan_726	Positive	Positive	Positive	Positive	Positive
+Kan_727	Positive	Positive	Negative	Positive	Positive
+Kan_728	Positive	Mixed feelings	Positive	unknown state	Positive
+Kan_729	Positive	Positive	Positive	Positive	Positive
+Kan_730	Negative	Mixed feelings	Negative	Negative	Negative
+Kan_731	Negative	Positive	unknown state	Positive	Positive
+Kan_732	Positive	Positive	Positive	Positive	Positive
+Kan_733	Positive	Positive	Positive	Positive	Positive
+Kan_734	Positive	Negative	Positive	Positive	Positive
+Kan_735	Positive	Positive	Positive	Positive	Positive
+Kan_736	Positive	Positive	Positive	Positive	Positive
+Kan_737	Positive	Positive	Positive	not-Kannada	Positive
+Kan_738	Negative	Positive	Negative	Negative	Negative
+Kan_739	Positive	Positive	Positive	Positive	Positive
+Kan_740	Positive	Positive	not-Kannada	Positive	Positive
+Kan_741	Negative	Negative	Negative	Negative	Negative
+Kan_742	unknown state	unknown state	unknown state	unknown state	unknown state
+Kan_743	Negative	Positive	Negative	Negative	Negative
+Kan_744	Mixed feelings	not-Kannada	Positive	Negative	Negative
+Kan_745	unknown state	Negative	Negative	Positive	Negative
+Kan_746	Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_747	Positive	Positive	Positive	Positive	Positive
+Kan_748	Positive	Negative	Positive	Positive	Positive
+Kan_749	Negative	Positive	Positive	Positive	Positive
+Kan_750	Positive	Positive	Positive	Negative	Positive
+Kan_751	Positive	Positive	Positive	Positive	Positive
+Kan_752	Negative	Negative	Negative	Negative	Negative
+Kan_753	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_754	unknown state	unknown state	unknown state	unknown state	unknown state
+Kan_755	Positive	Positive	Positive	Positive	Positive
+Kan_756	Positive	Positive	Positive	Positive	Positive
+Kan_757	Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Kan_758	unknown state	unknown state	unknown state	unknown state	unknown state
+Kan_759	unknown state	unknown state	unknown state	unknown state	unknown state
+Kan_760	Positive	Positive	Positive	Positive	Positive
+Kan_761	Positive	Positive	Positive	Positive	Positive
+Kan_762	Positive	not-Kannada	unknown state	Positive	Positive
+Kan_763	Positive	not-Kannada	Positive	Positive	Positive
+Kan_764	Positive	Positive	not-Kannada	Positive	Positive
+Kan_765	Negative	Positive	Negative	Negative	Negative
+Kan_766	Positive	Positive	Positive	Positive	Positive
+Kan_767	Positive	Positive	Positive	Positive	Positive
+Kan_768	Negative	Negative	Negative	Negative	Negative

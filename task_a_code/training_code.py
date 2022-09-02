@@ -13,8 +13,8 @@ from transformers import pipeline
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from sklearn.metrics import accuracy_score, classification_report, precision_score, recall_score, f1_score
 from load_data import initialize_data
-from reading_datasets import read_task5
-from labels_to_ids import labels_to_ids
+from reading_datasets import *
+from labels_to_ids import *
 import time
 import os
 os.environ["CUDA_VISIBLE_DEVICES"]="0"
@@ -195,7 +195,7 @@ def testing(model, testing_loader, labels_to_ids, device):
             mask = batch['attention_mask'].to(device, dtype = torch.long)
             
             # to attach back to prediction data later 
-            tweet_ids = batch['tweet_id']
+            # tweet_ids = batch['tweet_id']
             orig_sentences = batch['orig_sentence']
 
             output = model(ids, attention_mask=mask)
@@ -212,12 +212,12 @@ def testing(model, testing_loader, labels_to_ids, device):
 
             eval_preds.extend(predictions)
 
-            eval_tweet_ids.extend(tweet_ids)
+            #eval_tweet_ids.extend(tweet_ids)
             eval_orig_sentences.extend(orig_sentences)
 
     predictions = [ids_to_labels[id.item()] for id in eval_preds]
 
-    overall_prediction_data = pd.DataFrame(zip(eval_tweet_ids, eval_orig_sentences, predictions), columns=['tweet_id', 'text', 'label'])
+    overall_prediction_data = pd.DataFrame(zip(eval_tweet_ids, eval_orig_sentences, predictions), columns=[ 'text', 'label'])
 
     return overall_prediction_data
 
@@ -235,10 +235,10 @@ def main(n_epochs, model_name, model_save_flag, model_save_location, model_load_
     #Reading datasets and initializing data loaders
     dataset_location = '../2022.07.07_task5/'
 
-    train_data = read_task5(dataset_location , split = 'train')
-    dev_data = read_task5(dataset_location , split = 'dev')
+    train_data = read_task(dataset_location , split = 'train')
+    dev_data = read_task(dataset_location , split = 'dev')
     #test_data = read_task5(dataset_location , split = 'dev')#load test set
-    labels_to_ids = task5_labels_to_ids
+    labels_to_ids = labels_to_ids_mal
     #input_data = (train_data, dev_data, labels_to_ids)
 
     #Define tokenizer, model and optimizer

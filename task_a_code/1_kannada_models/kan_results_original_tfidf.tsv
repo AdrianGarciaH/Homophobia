@@ -1,0 +1,692 @@
+y	cat_boost_original_tfidf	forest_original_tfidf	log_original_tfidf	neigh_original_tfidf	original_majority_label_tfidf
+Mixed feelings	Mixed feelings	Mixed feelings	not-Kannada	Mixed feelings	Mixed feelings
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Negative	Positive	Positive	Positive
+not-Kannada	Positive	Negative	Negative	Negative	Negative
+Positive	Negative	Positive	Positive	Positive	Positive
+Positive	unknown state	Positive	Positive	unknown state	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Negative	Positive	Positive	Negative	Negative	Negative
+Positive	Positive	Positive	not-Kannada	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	unknown state	Positive	Positive	unknown state	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Negative	Negative	Negative
+Negative	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Mixed feelings	Mixed feelings	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Mixed feelings	Positive	Negative	Mixed feelings	Mixed feelings
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Negative	Negative	Negative	Negative
+Positive	not-Kannada	not-Kannada	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Mixed feelings	Negative
+unknown state	unknown state	unknown state	unknown state	unknown state	unknown state
+Negative	Negative	Negative	Negative	Negative	Negative
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Negative	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Negative	Positive	Negative	Negative	Positive	Negative
+Positive	not-Kannada	Positive	not-Kannada	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Mixed feelings	Positive	Mixed feelings	Mixed feelings	Mixed feelings
+Negative	Positive	Negative	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Negative	Negative	Negative
+not-Kannada	Positive	not-Kannada	not-Kannada	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Positive	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+unknown state	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	Positive	Positive	not-Kannada	Positive
+Negative	Mixed feelings	Positive	Positive	Negative	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Negative	Negative	Positive	Negative
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Negative	Negative	Negative	Negative
+Mixed feelings	Positive	Positive	Positive	not-Kannada	Positive
+Positive	Negative	Negative	Negative	Positive	Negative
+unknown state	unknown state	unknown state	unknown state	unknown state	unknown state
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	Positive	Positive	not-Kannada	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Negative	Negative	Negative	Negative	unknown state	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+unknown state	Positive	Positive	Positive	Positive	Positive
+Negative	unknown state	unknown state	unknown state	Positive	unknown state
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	unknown state	Positive	Positive	Positive
+Positive	Negative	Negative	Positive	Positive	Negative
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	not-Kannada	not-Kannada	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Positive	Positive	Negative
+Positive	not-Kannada	not-Kannada	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	not-Kannada	Positive	Positive	Positive	Positive
+Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	not-Kannada	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Positive	Mixed feelings	Negative
+Positive	Positive	unknown state	unknown state	unknown state	unknown state
+unknown state	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Mixed feelings	Negative	Negative	unknown state	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Negative	Positive	Positive	Positive
+not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+unknown state	Positive	Mixed feelings	unknown state	Mixed feelings	Mixed feelings
+Negative	Positive	Positive	Positive	Mixed feelings	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Negative	Positive	Negative	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	unknown state	Positive	Negative	unknown state	unknown state
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Mixed feelings	Negative	Mixed feelings	Mixed feelings	Mixed feelings
+Positive	unknown state	unknown state	unknown state	unknown state	unknown state
+Negative	Negative	Negative	Positive	Positive	Negative
+Positive	Negative	Negative	Positive	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Negative	Negative	Positive	Negative	Negative
+Positive	Positive	Positive	Positive	not-Kannada	Positive
+Negative	Negative	Positive	Negative	Negative	Negative
+Positive	Negative	Negative	Negative	Negative	Negative
+unknown state	Mixed feelings	Positive	unknown state	Mixed feelings	Mixed feelings
+Negative	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+not-Kannada	unknown state	unknown state	unknown state	unknown state	unknown state
+unknown state	Positive	Positive	Negative	Positive	Positive
+Positive	Negative	Positive	Positive	Negative	Negative
+Negative	Mixed feelings	Negative	Mixed feelings	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Positive	Negative
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Negative	Negative	Positive	Negative
+Negative	Positive	Positive	Positive	Mixed feelings	Positive
+unknown state	Mixed feelings	Mixed feelings	Positive	Mixed feelings	Mixed feelings
+unknown state	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Negative	unknown state	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	not-Kannada	Positive	Positive	not-Kannada	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Negative	Positive	Negative	Negative	Negative	Negative
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+not-Kannada	Positive	Positive	Positive	not-Kannada	Positive
+Positive	Positive	not-Kannada	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+unknown state	Positive	Positive	unknown state	not-Kannada	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Negative	Negative	Positive	Mixed feelings	Negative
+Positive	Negative	Positive	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	not-Kannada	Positive	Positive	not-Kannada	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Negative	Positive	Positive	unknown state	not-Kannada	Positive
+Positive	Negative	Negative	Negative	not-Kannada	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	unknown state	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Positive	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Positive	Negative
+unknown state	Positive	Positive	Positive	Positive	Positive
+Negative	unknown state	Positive	Positive	Positive	Positive
+Positive	Negative	Negative	Negative	Positive	Negative
+Negative	Negative	Positive	Positive	Negative	Negative
+Negative	not-Kannada	Positive	Positive	not-Kannada	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Negative	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Negative	Positive	Positive	Positive	Negative	Positive
+Positive	not-Kannada	not-Kannada	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	unknown state	Positive	unknown state	unknown state	unknown state
+Positive	Negative	not-Kannada	Negative	Positive	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+not-Kannada	not-Kannada	Positive	not-Kannada	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	unknown state	unknown state	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Mixed feelings	Positive	Positive	Positive	Mixed feelings	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	unknown state	not-Kannada
+unknown state	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Positive	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	unknown state	Positive	unknown state	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Positive	Negative
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Negative	Negative	Negative	Negative
+Positive	Negative	unknown state	unknown state	Mixed feelings	unknown state
+unknown state	Positive	Positive	not-Kannada	Positive	Positive
+Positive	unknown state	unknown state	Positive	unknown state	unknown state
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Negative	Negative	Positive	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Negative	Positive	Positive
+not-Kannada	Positive	not-Kannada	unknown state	Positive	Positive
+not-Kannada	not-Kannada	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Negative	Positive	Positive	Positive	Positive
+Mixed feelings	Mixed feelings	not-Kannada	Mixed feelings	Mixed feelings	Mixed feelings
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	not-Kannada	Positive	Positive	not-Kannada	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	not-Kannada	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	unknown state	Positive	Positive	unknown state	Positive
+Negative	Positive	Positive	Negative	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Negative	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Mixed feelings	Mixed feelings	Negative	Mixed feelings	Mixed feelings
+Negative	Negative	Negative	Negative	Negative	Negative
+Negative	Negative	Negative	Negative	Negative	Negative
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	not-Kannada	unknown state	Positive	unknown state	unknown state
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	Positive	Positive	not-Kannada	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Mixed feelings	Mixed feelings	Mixed feelings	Mixed feelings	Mixed feelings
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	not-Kannada	unknown state	Positive	not-Kannada	not-Kannada
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Mixed feelings	Mixed feelings	Mixed feelings	Mixed feelings	Mixed feelings
+Positive	not-Kannada	Positive	not-Kannada	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	unknown state	Negative
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	not-Kannada	Positive	not-Kannada	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+not-Kannada	unknown state	Positive	unknown state	not-Kannada	unknown state
+unknown state	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+not-Kannada	unknown state	unknown state	unknown state	unknown state	unknown state
+not-Kannada	Positive	Positive	Positive	not-Kannada	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	unknown state	unknown state	Positive	Mixed feelings	unknown state
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+not-Kannada	Positive	Positive	Positive	not-Kannada	Positive
+Mixed feelings	Mixed feelings	Mixed feelings	Positive	Mixed feelings	Mixed feelings
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Mixed feelings	Mixed feelings	Mixed feelings	Mixed feelings	Mixed feelings	Mixed feelings
+Negative	Positive	Positive	Positive	Positive	Positive
+unknown state	not-Kannada	not-Kannada	unknown state	not-Kannada	not-Kannada
+Negative	Negative	Negative	Negative	Positive	Negative
+Positive	Positive	Positive	Positive	not-Kannada	Positive
+Positive	Positive	Positive	Negative	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	unknown state	not-Kannada	Positive
+unknown state	unknown state	unknown state	unknown state	unknown state	unknown state
+Positive	Positive	Positive	not-Kannada	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Positive	Positive	Negative	Negative
+Negative	Negative	Negative	Positive	not-Kannada	Negative
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	not-Kannada	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Positive	Negative	Negative	Negative
+not-Kannada	Positive	Positive	unknown state	not-Kannada	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Mixed feelings	Negative	Positive	unknown state	Negative
+Negative	Negative	Negative	Positive	Positive	Negative
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+unknown state	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Negative	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Positive	Negative	Negative	Negative
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Negative	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+unknown state	not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Negative	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Positive	Negative
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Negative	Positive	Negative	unknown state	Negative
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+not-Kannada	not-Kannada	not-Kannada	Positive	Positive	Positive
+not-Kannada	unknown state	unknown state	not-Kannada	not-Kannada	not-Kannada
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Positive	Negative	Negative	Negative
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Negative	unknown state	unknown state	unknown state
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Positive	Positive	Positive	Negative	Positive	Positive
+Negative	Negative	Negative	Positive	Negative	Negative
+Negative	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	not-Kannada	Positive	not-Kannada	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	Mixed feelings	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Positive	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Negative	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	Positive	Positive
+Positive	Positive	not-Kannada	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Mixed feelings	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Negative	Mixed feelings	Negative	Positive	Positive	Positive
+not-Kannada	unknown state	Positive	Positive	unknown state	Positive
+Negative	not-Kannada	not-Kannada	Positive	Positive	Positive
+unknown state	unknown state	Positive	unknown state	unknown state	unknown state
+Positive	Positive	Positive	Positive	not-Kannada	Positive
+Mixed feelings	Mixed feelings	Positive	Positive	Mixed feelings	Positive
+Positive	not-Kannada	Positive	Positive	not-Kannada	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	not-Kannada	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Negative	Negative	Negative	Negative	Negative	Negative
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	not-Kannada	Positive	Positive	not-Kannada	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+not-Kannada	Negative	Negative	Negative	Negative	Negative
+Positive	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Positive	Positive	Mixed feelings	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Negative	Positive	Negative	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	not-Kannada	Positive	Positive	Mixed feelings	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Mixed feelings	Positive
+Positive	not-Kannada	Positive	Positive	not-Kannada	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	unknown state	not-Kannada	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	unknown state	not-Kannada	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Mixed feelings	Positive	not-Kannada	Mixed feelings	Mixed feelings
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Mixed feelings	Negative	Positive	unknown state	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	not-Kannada	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Positive	Negative	Positive	Negative
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Mixed feelings	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Positive	Positive	unknown state	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+unknown state	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+unknown state	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Mixed feelings	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	not-Kannada	Positive	Positive	not-Kannada	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+unknown state	unknown state	unknown state	Negative	unknown state	unknown state
+Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Negative	Positive	Positive	Negative	Negative	Negative
+unknown state	Positive	Positive	Positive	not-Kannada	Positive
+Negative	Negative	Negative	Negative	Positive	Negative
+Mixed feelings	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+unknown state	Mixed feelings	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Negative	Negative	Negative	Negative
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Mixed feelings	Negative	Positive	Mixed feelings	Mixed feelings
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada	not-Kannada
+Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Mixed feelings	Positive	Positive	not-Kannada	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	unknown state	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Negative	Positive	Positive	Negative
+Negative	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	unknown state	not-Kannada	Positive
+Negative	Positive	Negative	Negative	Positive	Negative
+unknown state	unknown state	Positive	unknown state	unknown state	unknown state
+Negative	Negative	Negative	Negative	Negative	Negative
+Negative	Mixed feelings	Mixed feelings	Negative	Mixed feelings	Mixed feelings
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Mixed feelings	Positive	Negative	Mixed feelings	Mixed feelings
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	unknown state	unknown state	unknown state	unknown state	unknown state
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	Positive	Positive	not-Kannada	Positive
+Negative	Positive	Positive	Positive	Negative	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Mixed feelings	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Negative	Positive	Negative	Negative
+not-Kannada	Negative	Negative	Negative	not-Kannada	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Negative	Positive	Positive	Negative
+unknown state	unknown state	not-Kannada	Positive	unknown state	unknown state
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	Positive	Positive	not-Kannada	Positive
+not-Kannada	not-Kannada	Positive	Positive	not-Kannada	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Mixed feelings	Positive	Mixed feelings	Mixed feelings	Mixed feelings
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Negative	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Negative	Negative	Negative	Negative	Negative
+unknown state	Negative	Negative	Negative	Negative	Negative
+Positive	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	not-Kannada	Positive
+not-Kannada	not-Kannada	not-Kannada	Positive	not-Kannada	not-Kannada
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Negative	Negative	Positive	Negative
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+not-Kannada	Positive	not-Kannada	not-Kannada	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Mixed feelings	Negative	Negative	Negative	Positive	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Positive	Positive	Negative	Positive	Positive
+Negative	Positive	Positive	Positive	Positive	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Negative	Negative	Negative	Negative	Negative	Negative
+Positive	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+unknown state	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Mixed feelings	Positive	Positive	Negative	Negative	Negative
+Positive	not-Kannada	Positive	Positive	not-Kannada	Positive
+Negative	Negative	Negative	Negative	Negative	Negative
+Mixed feelings	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Negative	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Negative	Mixed feelings	Mixed feelings	Negative	Positive	Mixed feelings
+Positive	Negative	Positive	Negative	Positive	Negative
+Mixed feelings	Positive	Positive	Negative	Negative	Negative
+Negative	Positive	Positive	Positive	Positive	Positive
+not-Kannada	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+unknown state	Positive	Positive	Positive	Positive	Positive
+not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada	not-Kannada
+Mixed feelings	Negative	Negative	Negative	Negative	Negative
+Negative	Negative	Negative	Negative	Negative	Negative
+Negative	Positive	Positive	Positive	Positive	Positive
+Positive	Positive	Positive	Positive	Positive	Positive
+Positive	Negative	Negative	Negative	Positive	Negative
+Positive	Negative	Negative	Negative	Positive	Negative
